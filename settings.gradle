@@ -1,0 +1,2 @@
+rootProject.name='MyApp_PeduliDigital'
+include ':app'
